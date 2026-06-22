@@ -29,7 +29,7 @@ export const PROFILE = {
   'Informatics Engineering graduate with experience in Machine Learning, Computer Vision, AI Data Quality Assurance, and Backend Development. Completed the Bangkit 2023 Machine Learning learning path, contributed to AI dataset validation projects at Appen, and developed a YOLOv8-based packaging classification system as an undergraduate thesis. Passionate about building intelligent systems that transform data into practical and impactful solutions.',
   email: 'akhsannurramdhan85@gmail.com',
   location: 'Sukabumi, West Java, Indonesia',
-  gpa: '3.65 / 4.00',
+  gpa: '3.60 / 4.00',
   socials: {
     github: 'https://github.com/akhsannurramdhan',
     linkedin: 'https://www.linkedin.com/in/akhsannurramdhan/',
@@ -71,7 +71,7 @@ export const EDUCATIONS = [
     institution: 'Universitas Muhammadiyah Sukabumi',
     degree: "Bachelor's Degree, Informatics Engineering",
     period: 'Sep 2021 – Jan 2026',
-    gpa: '3.65 / 4.00',
+    gpa: '3.60 / 4.00',
     description:
       'Focused on Machine Learning, Data Science, Computer Vision, Software Development, and Database Systems. Developed a YOLO-based packaging classification system as undergraduate research.',
     highlights: [
@@ -411,7 +411,7 @@ export interface Achievement {
 
 export const ACHIEVEMENTS: Achievement[] = [
   {
-    title: 'Graduated with GPA 3.65 / 4.00',
+    title: 'Graduated with GPA 3.60 / 4.00',
     detail: 'Informatics Engineering.',
   },
   {
