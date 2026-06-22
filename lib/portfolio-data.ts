@@ -24,9 +24,9 @@ export const PROFILE = {
   headline: 'Machine Learning • Computer Vision • Data Science',
   label: 'Informatics Engineering Graduate',
   heroText:
-    'Machine Learning Engineer focused on Data Science, Computer Vision, and Backend Development. Experienced in building YOLOv8-based solutions and validating large-scale AI datasets.',
+    'Machine Learning Engineer focused on Data Science, Computer Vision, and Backend Development. Experienced in building YOLOv10-based solutions and validating large-scale AI datasets.',
   about:
-  'Informatics Engineering graduate with experience in Machine Learning, Computer Vision, AI Data Quality Assurance, and Backend Development. Completed the Bangkit 2023 Machine Learning learning path, contributed to AI dataset validation projects at Appen, and developed a YOLOv8-based packaging classification system as an undergraduate thesis. Passionate about building intelligent systems that transform data into practical and impactful solutions.',
+  'Informatics Engineering graduate with experience in Machine Learning, Computer Vision, AI Data Quality Assurance, and Backend Development. Completed the Bangkit 2023 Machine Learning learning path, contributed to AI dataset validation projects at Appen, and developed a YOLOv10-based packaging classification system as an undergraduate thesis. Passionate about building intelligent systems that transform data into practical and impactful solutions.',
   email: 'akhsannurramdhan85@gmail.com',
   location: 'Sukabumi, West Java, Indonesia',
   gpa: '3.60 / 4.00',
@@ -51,7 +51,7 @@ export const FEATURES = [
   },
   {
     title: 'Computer Vision',
-    description: 'YOLOv8, image processing, OpenCV',
+    description: 'YOLOv10, image processing, OpenCV',
     icon: Eye,
   },
   {
@@ -175,7 +175,7 @@ export const PROJECTS: Project[] = [
   {
     title: 'Packaging Quality Inspection Using YOLO',
     description:
-      'Computer vision system for automated packaging quality inspection using YOLOv8.',
+      'Computer vision system for automated packaging quality inspection using YOLOv10.',
     image: '/projects/yolo-packaging1.png',
     images: [
       '/projects/yolo-packaging.png',
@@ -185,15 +185,15 @@ export const PROJECTS: Project[] = [
       '/projects/yolo-packaging4.jpg',
       '/projects/yolo-packaging5.jpg',
     ],
-    tags: ['Python', 'YOLOv8', 'Computer Vision', 'Deep Learning'],
+    tags: ['Python', 'YOLOv10', 'Computer Vision', 'Deep Learning'],
     year: '2025',
     role: 'Machine Learning Engineer · Thesis Project',
 
     longDescription:
-      'Developed a custom computer vision system using YOLOv8 to automate packaging quality inspections for ginger candy production. The system classifies products into three industrial quality categories: Marketable, Torn, and Dented. Built and annotated a balanced dataset while optimizing the model for real-time industrial deployment.',
+      'Developed a custom computer vision system using YOLOv10 to automate packaging quality inspections for ginger candy production. The system classifies products into three industrial quality categories: Marketable, Torn, and Dented. Built and annotated a balanced dataset while optimizing the model for real-time industrial deployment.',
 
     highlights: [
-      'Developed a custom YOLOv8-based quality inspection system',
+      'Developed a custom YOLOv10-based quality inspection system',
       'Built and annotated a balanced dataset of 930 packaging instances',
       'Achieved 99.5% mAP@0.5 and 100% testing classification accuracy',
       'Production-ready inference speed for real-time quality control',
